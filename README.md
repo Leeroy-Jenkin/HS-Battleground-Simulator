@@ -6,7 +6,7 @@
 命令行输入 
 
 ```shell
-python3 src/simplify_pirate
+python3 src/simplify_pirate.py
 ```
 
 输出数据及随从变化情况。
