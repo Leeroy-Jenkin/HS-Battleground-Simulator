@@ -1,0 +1,67 @@
+
+### Luxury Mode
+
+1. Minions: 'Golden_Scallywag', 'Golden_Scallywag', 'Golden_Dread_Admiral_Eliza', 'Golden_Khadgar', 'Golden_Khadgar', 'Golden_Baron_Rivendare'
+
+Damages are: [8, 6, 6, 6, 6, 6, 6, 6, 6, 38, 6, 6, 6, 6, 6, 6, 6, 6, 38, 6, 6, 6, 6, 6, 6, 6, 6, 38, 120, 6, 6, 6, 6, 6, 6, 6, 6, 38, 6, 6, 6, 6, 6, 6, 6, 6, 
+38, 6, 6, 6, 6, 6, 6, 6, 6, 38, 240, 232, 232, 230], total dmg dealt: 1578, average dmg on 7 opponents: 225.42857142857142
+
+
+
+2. Minions: 'Golden_Scallywag', 'Golden_Scallywag', 'Golden_Dread_Admiral_Eliza', 'Golden_Khadgar', 'Golden_Khadgar', 'Golden_Khadgar', 'Golden_Baron_Rivendare'
+
+Damages are: [8, 6, 6, 6, 24, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 110, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 
+6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 110, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 110, 360, 352, 352, 352, 350], 
+total dmg dealt: 2614, average dmg on 7 opponents: 373.42857142857144
+
+Minions: 'Golden_Scallywag', 'Golden_Scallywag', 'Golden_Dread_Admiral_Eliza', 'Khadgar', 'Golden_Khadgar', 'Golden_Khadgar', 'Golden_Baron_Rivendare'
+
+Damages are: [8, 6, 6, 6, 24, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 74, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 74, 6, 6, 6, 6, 6, 6, 6, 
+6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 74, 252, 242, 244, 244, 242], total dmg dealt: 1802, average dmg on 7 opponents: 257.42857142857144
+
+Minions: 'Golden_Scallywag', 'Golden_Scallywag', 'Golden_Scallywag', 'Golden_Dread_Admiral_Eliza', 'Golden_Khadgar', 'Golden_Khadgar', 'Golden_Baron_Rivendare'
+
+Damages are: [8, 6, 6, 6, 24, 6, 6, 6, 6, 6, 6, 6, 6, 38, 6, 6, 6, 6, 6, 6, 6, 6, 38, 6, 6, 6, 6, 6, 6, 6, 6, 38, 136, 6, 6, 6, 6, 6, 6, 6, 6, 38, 6, 6, 6, 6, 6, 6, 6, 6, 
+38, 6, 6, 6, 6, 6, 6, 6, 6, 38, 256, 248, 248, 246], total dmg dealt: 1700, average dmg on 7 opponents: 242.85714285714286
+
+
+
+3. Minions: 'Golden_Scallywag', 'Golden_Scallywag', 'Golden_Dread_Admiral_Eliza', 'Khadgar', 'Golden_Khadgar', 'Golden_Baron_Rivendare'
+
+Damages are: [8, 6, 6, 6, 6, 6, 26, 6, 6, 6, 6, 6, 26, 6, 6, 6, 6, 6, 26, 84, 6, 6, 6, 6, 6, 26, 6, 6, 6, 6, 6, 26, 6, 6, 6, 6, 6, 
+26, 168, 158, 160, 158], total dmg dealt: 1072, average dmg on 7 opponents: 153.14285714285714
+
+
+
+4. Minions: 'Golden_Scallywag', 'Golden_Scallywag', 'Golden_Dread_Admiral_Eliza', 'Khadgar', 'Khadgar', 'Golden_Baron_Rivendare'
+
+Damages are: [8, 6, 6, 6, 18, 6, 6, 6, 18, 6, 6, 6, 18, 60, 6, 6, 6, 18, 6, 6, 6, 18, 6, 6, 6, 18, 120, 110, 110, 110], 
+total dmg dealt: 734, average dmg on 7 opponents: 104.85714285714286
+
+
+
+### Ordinary Mode
+
+5. Minions: 'Scallywag', 'Scallywag', 'Dread_Admiral_Eliza', 'Khadgar', 'Khadgar', 'Baron_Rivendare'
+
+Damages are: [4, 3, 3, 3, 9, 3, 3, 3, 9, 22, 3, 3, 3, 9, 3, 3, 3, 9, 44, 40, 40, 39], total dmg dealt: 261, average dmg on 7 opponents: 37.285714285714285
+
+
+
+6. Minions: 'Scallywag', 'Scallywag', 'Dread_Admiral_Eliza', 'Khadgar', 'Golden_Khadgar', 'Baron_Rivendare'
+
+Damages are: [4, 3, 3, 3, 3, 3, 13, 3, 3, 3, 3, 3, 13, 30, 3, 3, 3, 3, 3, 13, 3, 3, 3, 3, 3, 13, 60, 56, 58, 55], 
+total dmg dealt: 375, average dmg on 7 opponents: 53.57142857142857
+
+
+
+7. Minions: 'Scallywag', 'Scallywag', 'Dread_Admiral_Eliza', 'Khadgar', 'Khadgar', 'Golden_Khadgar', 'Baron_Rivendare'
+
+Damages are: [4, 3, 3, 10, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 25, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 25, 64, 60, 60, 62, 59], 
+total dmg dealt: 441, average dmg on 7 opponents: 63.0
+
+
+
+8. Minions: 'Scallywag', 'Scallywag', 'Dread_Admiral_Eliza', 'Golden_Khadgar', 'Baron_Rivendare'
+
+Damages are: [4, 3, 3, 7, 3, 3, 7, 18, 3, 3, 7, 3, 3, 7, 36, 34, 31], total dmg dealt: 175, average dmg on 7 opponents: 25.0
